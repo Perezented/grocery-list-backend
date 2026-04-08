@@ -1,0 +1,16 @@
+# Python ignores
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+env/
+venv/
+
+# Docker ignores
+dist/
+build/
+*.container
+
+# System files
+.DS_Store
+*.swp
